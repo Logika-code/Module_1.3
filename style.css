@@ -1,0 +1,13 @@
+*
+{
+    background: gray;
+}
+.text
+{
+    padding: 150px;
+    font-size: 30px;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
